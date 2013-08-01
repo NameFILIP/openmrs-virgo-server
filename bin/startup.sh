@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export JAVA_OPTS="$JAVA_OPTS -Xms1024m -Xmx2048m -XX:PermSize=512m -XX:MaxPermSize=1024m"
+
 SCRIPT="$0"
 
 # SCRIPT may be an arbitrarily deep series of symlinks. Loop until we have the concrete path.
