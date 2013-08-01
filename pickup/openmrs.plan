@@ -6,5 +6,8 @@
 		        http://www.eclipse.org/virgo/schema/plan/eclipse-virgo-plan.xsd">
 
     <artifact type="bundle" name="com.springsource.com.mysql.jdbc"/>
+    <artifact type="bundle" name="org.openmrs.net.sf.saxon"/>
+    <artifact type="bundle" name="org.openmrs.net.sf.saxon.dom"/>
+    <artifact type="bundle" name="org.openmrs.web.openmrs-webapp"/>
     
 </plan>
