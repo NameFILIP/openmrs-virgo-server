@@ -4,10 +4,54 @@
 		xsi:schemaLocation="
 		        http://www.eclipse.org/virgo/schema/plan
 		        http://www.eclipse.org/virgo/schema/plan/eclipse-virgo-plan.xsd">
-
-    <artifact type="bundle" name="com.springsource.com.mysql.jdbc"/>
+    
+    <artifact type="bundle" name="org.openmrs.web.openmrs-webapp"/>
+    <!--artifact type="bundle" name="jcl.over.slf4j"/>
     <artifact type="bundle" name="org.openmrs.net.sf.saxon"/>
     <artifact type="bundle" name="org.openmrs.net.sf.saxon.dom"/>
-    <artifact type="bundle" name="org.openmrs.web.openmrs-webapp"/>
+    <artifact type="bundle" name="com.springsource.com.mysql.jdbc"/>
+    <artifact type="bundle" name="com.springsource.org.apache.commons.beanutils"/>
+    <artifact type="bundle" name="org.apache.commons.cli"/>
+    <artifact type="bundle" name="org.apache.commons.digester"/>
+    <artifact type="bundle" name="org.apache.commons.lang"/>
+    <artifact type="bundle" name="org.apache.commons.lang3"/>
+    <artifact type="bundle" name="org.apache.commons.validator"/>
+    <artifact type="bundle" name="com.google.guava"/>
+    <artifact type="bundle" name="org.apache.velocity"/>
+    <artifact type="bundle" name="org.openmrs.api.openmrs-api"/>
+    <artifact type="bundle" name="com.springsource.net.sf.cglib"/>
+    <artifact type="bundle" name="com.springsource.antlr"/>
+    <artifact type="bundle" name="com.springsource.com.thoughtworks.xstream"/>
+    
+    <artifact type="bundle" name="com.springsource.org.dom4j"/>
+    <artifact type="bundle" name="com.springsource.org.xmlpull"/>
+    
+    <artifact type="bundle" name="org.apache.commons.collections"/>
+    
+    <artifact type="bundle" name="org.apache.commons.fileupload"/>
+    <artifact type="bundle" name="org.apache.commons.io"/>
+    
+    <artifact type="bundle" name="com.springsource.org.jdom"/>
+    
+    <artifact type="bundle" name="jackson-core-asl"/>
+    <artifact type="bundle" name="jackson-mapper-asl"/>
+    <artifact type="bundle" name="javassist"/>
+    <artifact type="bundle" name="log4j"/>
+    <artifact type="bundle" name="javax.validation.api"/>
+    
+    <artifact type="bundle" name="com.springsource.org.apache.xerces"/>
+    <artifact type="bundle" name="com.springsource.org.apache.xml.resolver"/>
+    <artifact type="bundle" name="com.springsource.org.apache.xmlcommons"/>
+    
+    <artifact type="bundle" name="com.springsource.com.mchange.v2.c3p0"/>
+    
+    <artifact type="bundle" name="org.openmrs.web.openmrs-web"/>
+    
+    <artifact type="bundle" name="org.openmrs.net.sf.ehcache.ehcache-core"/>
+    <artifact type="bundle" name="org.openmrs.org.hibernate.hibernate-c3p0"/>
+    <artifact type="bundle" name="org.openmrs.org.hibernate.hibernate-ehcache"/>
+    <artifact type="bundle" name="org.openmrs.hibernate-config"/>
+    <artifact type="bundle" name="org.openmrs.org.hibernate.hibernate-commons-annotations"/>
+    <artifact type="bundle" name="org.openmrs.org.hibernate.hibernate-core"/-->
     
 </plan>
